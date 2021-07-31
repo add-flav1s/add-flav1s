@@ -18,7 +18,9 @@
   <img align="center" alt="flav1s-Php" height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="flav1s-Javascript" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="flav1s-Photoshop" height="30" src="https://aleen42.github.io/badges/src/photoshop.svg">
-  
+  <img align="center" alt="flav1s-Ubuntu" height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img align="center" alt="flav1s-Windows" height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+                                                               
 </div>
   <br>
   <div> 
