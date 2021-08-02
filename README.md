@@ -1,7 +1,7 @@
 ### Olá, eu sou a Ana Flávia Souza 👋
 
 - 🔭 Futura Dev. Backend
-- 🌱 Estudando PHP, Python e VueJS
+- 🌱 Estudando PHP, Python e Laravel
 - 📫 Contate-me no email: aflavia17_@hotmail.com
 - 😄 Pronouns: ela/dela - she/her
 
