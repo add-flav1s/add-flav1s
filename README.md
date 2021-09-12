@@ -1,6 +1,6 @@
 ### Olá, eu sou a Ana Flávia Souza 👋
 
-- 🔭 Futura Dev. Backend
+- 🔭 Futura Dev. Web
 - 🌱 Estudante de javascript.
 - 📫 Contate-me no email: aflavia17_@hotmail.com
 - 😄 Pronouns: ela/dela - she/her
