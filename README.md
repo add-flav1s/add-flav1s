@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://github.com/add-flav1s">
-  <img height="280em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=add-flav1s&layout=compact)](https://github.com/add-flav1s/github-readme-stats)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=add-flav1s&layout=vue)](https://github.com/add-flav1s/github-readme-stats)"/>
 </div>
 
   <div style="display: inline_block"><br>
