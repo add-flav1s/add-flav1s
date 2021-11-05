@@ -1,7 +1,7 @@
 ### Olá, eu sou a Ana Flávia Souza 👋
 
-- 🔭 Futura Front-end web development.
-- 🌱 Estudante de VueJs.
+- 🔭 Futura web development.
+- 🌱 Estudante de VueJs e NodeJs.
 - 😄 Pronouns: ela/dela - she/her
 
 <div>
